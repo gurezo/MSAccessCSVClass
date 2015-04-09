@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MSAccessCSVClass", "MSAccessCSVClass.vbproj", "{450A6FD0-B1A3-4023-BC5A-AE63C2FC3A6F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{450A6FD0-B1A3-4023-BC5A-AE63C2FC3A6F}.Debug.ActiveCfg = Debug|.NET
+		{450A6FD0-B1A3-4023-BC5A-AE63C2FC3A6F}.Debug.Build.0 = Debug|.NET
+		{450A6FD0-B1A3-4023-BC5A-AE63C2FC3A6F}.Release.ActiveCfg = Release|.NET
+		{450A6FD0-B1A3-4023-BC5A-AE63C2FC3A6F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
