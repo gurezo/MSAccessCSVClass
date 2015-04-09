@@ -1,2 +1,2 @@
 # MSAccessCSVClass
-# Microsoft Access 用ライブラリ
+Microsoft Access 用ライブラリ
