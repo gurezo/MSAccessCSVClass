@@ -1,4 +1,4 @@
-' @(h) clsMSAccessCSV.vb          ver 01.00.00 ('2005.09.02 –Ø•é)
+' @(h) clsMSAccessCSV.vb          ver 01.00.00
 '
 ' @(s)
 ' 
